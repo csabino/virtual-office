@@ -41,7 +41,7 @@
     "@web/test-runner": "0.12.1",
     "chai": "4.2.0",
     "snowpack": "2.18.0",
-    "uuid": "8.3.0"
+    "uuid": "8.3.2"
   },
   "scripts": {
     "start": "snowpack dev",
